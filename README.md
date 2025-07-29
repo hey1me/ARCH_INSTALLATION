@@ -28,58 +28,65 @@ Watch Until 5:07 ONLY
 Run:
 `fdisk -l`
 
-`fdisk /dev/sdX` (replace /dev/sdX by the partition you want to install ARCH)
+`cfdisk [the partition]` (Example: `cfdisk /dev/sda` )
 
 #### # Delete If You Want to Clear The Chosen Partition:
 
-`d` for delete partition, follow the instructions to delete partition.
+Use [Delete] Button.
 
-Example: If want to delete 2 partitions, then two times of `d`.
+(Double Check If you has choose correct partition For install Arch Linux)
 
 
 #### # Create 3 Partitions:
 
-`n`
-Press Enter to 'Last Sector', Type: +1G, Press Enter Again.
+Use [New] Button to Create:
 
-`n`
-Press Enter to 'Last Sector', Type: +6G, Press Enter Again.
+- 1G  [first partition]
 
-`n`
-Press Enter 3 times.
+- 6G (You can Choose 1-6 by yourself, if you know what is this for)   [second partition]
+
+- (the rest of space)   [third partition]
 
 
 #### # Make Partition Bootable Flag:
 
-`a` Type: 1, Press Enter.
+Use [Bootable] Button to Flag First Partition [1G]
+
 
 #### # Change Type of Partitions:
 
-`t` Type: 1, Press Enter, Type: ef, Press Enter.
+Use [Type] to Make:
 
-`t` Type: 2, Press Enter, Type: 82, Press Enter.
+- [1G] 'ef' Code    (first partition)
+
+- [6G] '82' Code    (second partition)
+
+- [third partition] '83' Code     (third partition)
+
 
 #### # Save Changes:
 
-`w`
+Use [Write] Button, Type: yes, Press 'Enter'
+
 
 ### Format Partitions:
 
 Run:
 
-`mkfs.ext4 /dev/sdX3`
+`mkfs.ext4 [third partition]`
 
-`mkfs.fat -F 32 /dev/sdX1`
+`mkfs.fat -F 32 [first partition]`
 
-`mkswap /dev/sdX2`
+`mkswap [second partition]`
+
 
 ### Mount Partitions:
 
-`mount /dev/sdX3 /mnt`
+`mount [third partition] /mnt`
 
-`swapon /dev/sdX2`
+`swapon [second partition]`
 
-`mount --mkdir /dev/sdX1 /mnt/boot`
+`mount --mkdir [first partition] /mnt/boot`
 
 
 ## Enter Arch Installation:
