@@ -4,6 +4,19 @@
 
 ![Logo](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png)
 
+
+### Index
+
+- [Arch ISO File Install]()
+- [How to Boot into Arch Live ISO]()
+- [Choose And Create Partition For Arch]()
+- [Format Partition of Arch Linux]()
+- [Mount The Partition]()
+- [Enter User-Friendly ArchInstall]()
+- [Guide For ArchInstall]()
+- [Install HEY_Hypr_Arch For Your Arch Linux]()
+
+
 ### Visit ARCH OFFICIAL Download WebPage:
 [ARCH_DOWNLOAD](https://geo.mirror.pkgbuild.com/iso/latest/)
 
@@ -18,7 +31,7 @@ Choose & Click The ISO File Format Name Like THIS:
 ## After Download
 
 Visit: 
-[HOW_TO_CREATE_BOOTABLE_USB_FOR_ARCH_IN_WINDOWS](https://youtu.be/yYyh3PrIB7w?si=f7Ibs79C9I4M3u0P)
+[HOW_TO_CREATE_BOOTABLE_USB_FOR_ARCH_IN_WINDOWS_And_Boot into Arch LiveISO](https://youtu.be/yYyh3PrIB7w?si=f7Ibs79C9I4M3u0P)
 
 Watch Until 5:07 ONLY
 
@@ -57,9 +70,9 @@ Use [Bootable] Button to Flag First Partition [1G]
 
 Use [Type] to Make:
 
-- [1G] 'ef' Code    (first partition)
+- [first partition] 'ef' Code    (first partition)
 
-- [6G] '82' Code    (second partition)
+- [second partition] '82' Code    (second partition)
 
 - [third partition] '83' Code     (third partition)
 
