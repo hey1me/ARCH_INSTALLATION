@@ -133,8 +133,9 @@ Run:
 ##### Additional Packages:
 - (For Enter Search)Type: /
 - Search: curl
+- Press 'Tab' (Select)
 - Search: git
-- Press 'Enter' for Select
+- Press 'Enter' (Select and Exit)
 
 ##### Network Configuration:
 - Select: Use NetworkManager
