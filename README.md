@@ -163,6 +163,6 @@ Run:
 
 ### After Login:
 
-#### Refer to [Install_HEY_Hypr_Arch](https://github.com/hey1me/HEY_Hypr_Arch) to Install HEY_Hypr_Arch Linux.
+#### Refer to [Install_HEY_Hypr_Arch](https://github.com/hey1me/HEY_HyprArch) to Install HEY_Hypr_Arch Linux.
 
 #### Thanks For Supporting My Projects. Follow to Avoid Miss Out More Projects.
