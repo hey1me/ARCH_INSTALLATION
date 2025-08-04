@@ -1,5 +1,5 @@
 
-## ARCH Installation GUIDE
+## ARCH Installation GUIDE <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
 
 
 ![Logo](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png)
