@@ -33,7 +33,9 @@ Choose & Click The ISO File Format Name Like THIS:
 Visit: 
 [HOW_TO_CREATE_BOOTABLE_USB_FOR_ARCH_IN_WINDOWS_And_Boot into Arch LiveISO](https://youtu.be/yYyh3PrIB7w?si=f7Ibs79C9I4M3u0P)
 
-Watch Until 5:07 ONLY
+Remember to Disable Secure Boot in Your Bios
+
+Watch Until `5:07` ONLY
 
 ## After Followed the Steps
 
