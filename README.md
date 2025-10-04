@@ -1,3 +1,9 @@
+` _   _ _______   ___ __  __ _____ 
+| | | | ____\ \ / / |  \/  | ____|
+| |_| |  _|  \ V /| | |\/| |  _|  
+|  _  | |___  | | | | |  | | |___ 
+|_| |_|_____| |_| |_|_|  |_|_____|`
+
 
 ## ARCH Installation GUIDE <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
 
