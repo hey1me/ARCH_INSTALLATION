@@ -7,6 +7,9 @@
 
 ### Index
 
+‼️ This Will Wipe Your Windows OS(or what else OS you are using) ‼️
+‼️ Refer to Dual-Boot on YouTube Tutorial, But NOT RECOMMENDED   ‼️
+
 - [Arch ISO File Download](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#visit-arch-official-download-webpage)
 - [After Download & How to Boot into Arch Live ISO](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#after-download)
 - [Choose And Create Partition For Arch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#after-followed-the-steps)
