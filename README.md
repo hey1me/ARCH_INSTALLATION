@@ -28,14 +28,28 @@ Choose & Click The ISO File Format Name Like THIS:
 #### Wait For The Installation Done — this may take a minute.
 
 
-## After Download
+## After Download ISO File
 
-Visit: 
-[HOW_TO_CREATE_BOOTABLE_USB_FOR_ARCH_IN_WINDOWS_And_Boot into Arch LiveISO](https://youtu.be/yYyh3PrIB7w?si=f7Ibs79C9I4M3u0P)
+1.Search On Web: Ventoy Download.
 
-Remember to Disable Secure Boot in Your Bios
+2.Download & Run it.
 
-Watch Until `5:07` ONLY
+3.Choose Your USB Drive & ISO File into it.
+
+4.After Finish, Restart Your Computer & Boot into Your BIOS/UEFI. [Don't have to unplug your USB Drive]
+(Search if you don't know: how to boot bios)
+
+5.Disable 'Secure Boot' Mode in Your BIOS.
+
+6.Press&Hold the key for boot into 'Boot Option'.
+(Search if you don't know: how to boot into boot option)
+
+7.Choose Your USB Drive to boot into Ventoy.
+
+8.Choose Arch Linux ISO file, boot normally. Select the first option in Arch First Page.
+
+9.Wait For the CLI to let you enter command.
+
 
 ## After Followed the Steps
 
