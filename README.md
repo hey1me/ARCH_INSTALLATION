@@ -5,20 +5,24 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
 </p>
 
-## Index:
+## 📋 Index:
 
 ‼️ Operation Will Wipe Your SSD/Storage Card
 <br>
 ‼️ If your are looking for dual-boot OS, refer to other guide
 
-- [Arch ISO File Download](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#visit-arch-official-download-webpage)
-- [After Download & How to Boot into Arch Live ISO](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#after-download)
-- [Choose And Create Partition For Arch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#after-followed-the-steps)
-- [Format Partition of Arch Linux](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#format-partitions)
-- [Mount The Partition](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#mount-partitions)
-- [Enter User-Friendly ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#enter-arch-installation)
-- [Guide For ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#guide-1)
-- [Install HEY_Hypr_Arch For Your Arch Linux](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#after-installed)
+- [Tools Requirement](https://github.com/hey1me/ARCH_INSTALLATION/#tools-requirement)
+- [Arch Linux ISO File](https://github.com/hey1me/ARCH_INSTALLATION/#arch-linux-iso-file)
+- [Boot Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#boot-arch-linux)
+- **[In Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#in-arch-live)**
+  - [Internet Connection](https://github.com/hey1me/ARCH_INSTALLATION/#internet-connection)
+  - [Create Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#create-partitions)
+  - [Format Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#format-partitions)
+  - [Mount Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#mount-partitions)
+  - [Start ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/#start-archinstall)
+  - [Login](https://github.com/hey1me/ARCH_INSTALLATION/#login)
+  - [HEY_HyprArch]()
+  - [SUPPORT](https://github.com/hey1me/ARCH_INSTALLATION/#-----support-)
 
 ### Tools Requirement
 - **Flash Drive**
@@ -32,14 +36,15 @@
 ### Arch Linux ISO File
 [Download](https://geo.mirror.pkgbuild.com/iso/latest/)
 
-### Boot Arch Linux Step
+### Boot Arch Live
 1. [Download](https://www.ventoy.net/en/download.html)
-2. Select Your Flash Drive & ISO File
-3. **Restart Your Computer & Boot into Your BIOS/UEFI.**
+2. **In Ventoy App**
+   - Select Your Flash Drive & ISO File
+4. **Restart Your Computer & Boot into Your BIOS/UEFI**
      - Don't have to unplug your Flash Drive
 - **BIOS/UEFI Boot Guide in Windows OS**
-  - Open Command Prompt as an administrator.
-  - Type the command shutdown /r /fw and press Enter.
+  - Open Command Prompt as an administrator
+  - Type the command `shutdown /r /fw` and press Enter
 4. **In BIOS/UEFI**
     - Disable 'Secure Boot' Mode
     - Choose Flash Drive as the first 'Boot Option'
@@ -51,7 +56,7 @@
 7. **In Arch Bootloader**
     - Select 'Boot Arch Linux (x86_64)'
 
-### Command
+### In Arch Live
 
 #### Internet Connection
 ```bash
@@ -101,7 +106,7 @@
 - **Disk Configuration**
   - Select [Pre-Mounted Configuration]
   - **Type:**
-    - /mnt
+    - `/mnt`
 - **Root Password**
   - [Enter Root/Admin Password]
 - **User Account**
@@ -127,8 +132,10 @@
 - Enter [Username]
 - Enter [Password]
 
-## 💫 HEY_HyprArch Linux
-- **Work Well With New & Advanced Users**
+<h2 align="center">
+    💫 HEY_HyprArch
+</h2>
+  - **Work Well With New & Advanced Users**
   - [Link](https://github.com/hey1me/HEY_HyprArch) (Publish in April 2026)
 
 <h2 align="center">
