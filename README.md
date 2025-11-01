@@ -20,8 +20,8 @@
   - [Format Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#format-partitions)
   - [Mount Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#mount-partitions)
   - [Start ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/#start-archinstall)
-- [After Login](https://github.com/hey1me/ARCH_INSTALLATION/#after-boot-up)
-- **[💫 HEY_HyprArch 💫](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)**
+- [After Boot Up](https://github.com/hey1me/ARCH_INSTALLATION/#after-boot-up)
+- **[💫 HEY_HyprArch 💫](https://github.com/hey1me/ARCH_INSTALLATION/#-----hey_hyprarch-)**
   - [Install](https://github.com/hey1me/HEY_HyprArch)
 - **[SUPPORT](https://github.com/hey1me/ARCH_INSTALLATION/#-----support-)**
   - [YouTube](https://www.youtube.com/@hey1me)
@@ -140,8 +140,17 @@
   - Enter [Password]
 - **Optional**
   - **Create Swap File**
-    - 
+    - ```bash
+        sudo mkswap -U clear --size 4G --file /swapfile
+        sudo swapon /swapfile
+      ```
+    - ```bash
+        sudo bash -c 'cat >> /etc/fstab <<EOF
+        /swapfile none swap defaults 0 0
+        EOF'
+      ```
 
+      
    
 <h2 align="center">
     💫 HEY_HyprArch 💫
