@@ -5,9 +5,10 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
 </p>
 
-## Index
+## Index:
 
 ‼️ Operation Will Wipe Your SSD/Storage Card
+<br>
 ‼️ If your are looking for dual-boot OS, refer to other guide
 
 - [Arch ISO File Download](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#visit-arch-official-download-webpage)
@@ -19,174 +20,116 @@
 - [Guide For ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#guide-1)
 - [Install HEY_Hypr_Arch For Your Arch Linux](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#after-installed)
 
+### Tools Requirement
+- **Flash Drive**
+  - Recommended at least 2GB
+- **Devices**
+  - Processor: x86_64 (64-bit) architecture
+  - RAM: At least 2 GB
+  - Storage: At least 20GB
+  - Internet Connection
 
-### Visit ARCH OFFICIAL Download WebPage:
-[ARCH_DOWNLOAD](https://geo.mirror.pkgbuild.com/iso/latest/)
+### Arch Linux ISO File
+[Download](https://geo.mirror.pkgbuild.com/iso/latest/)
 
-Choose & Click The ISO File Format Name Like THIS:
+### Boot Arch Linux Step
+1. [Download](https://www.ventoy.net/en/download.html)
+2. Select Your Flash Drive & ISO File
+3. **Restart Your Computer & Boot into Your BIOS/UEFI.**
+     - Don't have to unplug your Flash Drive
+- **BIOS/UEFI Boot Guide in Windows OS**
+  - Open Command Prompt as an administrator.
+  - Type the command shutdown /r /fw and press Enter.
+4. **In BIOS/UEFI**
+    - Disable 'Secure Boot' Mode
+    - Choose Flash Drive as the first 'Boot Option'
+    - Save Changes & Exit
+5. Turn On Your Computer
+6. **In Ventoy Bootloader**
+    - Select Arch Linux ISO file
+    - Boot 'Normal Mode'.
+7. **In Arch Bootloader**
+    - Select 'Boot Arch Linux (x86_64)'
 
-[archlinux-yyyy.mm.dd-x86_64.iso]
+### Command
 
+#### Internet Connection
+```bash
+  ...
+```
 
-#### Wait For The Installation Done — this may take a minute.
+#### Create Partitions
+1. ```bash
+    fdisk -l`
+    cfdisk [partition you want to install Arch]
+   ```
+- **Example**
+  - `cfdisk /dev/sda`
 
+2. Select [Delete] Button. (Delete/Clear All)
+3. **Select [New] Button to Create 2 partitions**
+    - 1G [first partition]
+    - (Choose Storage Size You Want/Recommended: All) [second partition]
+    - (Recommend create Swap File instead of Swap Partition)
+4. Select [Bootable] Button to Flag First Partition[1G]
+5. **Use [Type] Button to Change**
+    - [first partition] 'ef' Code
+    - [second partition] '83' Code
+6. **Select [Write] Button**
+    - **Type:**
+      - yes
 
-## After Download ISO File
+#### Format Partitions
+```bash
+  mkfs.ext4 [third partition]
+  mkfs.fat -F 32 [first partition]
+```
 
-1.Search On Web: Ventoy Download.
+#### Mount Partitions
+```bash
+  mount [third partition] /mnt
+  mount --mkdir [first partition] /mnt/boot
+```
 
-2.Download & Run it.
-
-3.Choose Your USB Drive & ISO File into it.
-
-4.After Finish, Restart Your Computer & Boot into Your BIOS/UEFI. [Don't have to unplug your USB Drive]
-(Search if you don't know: how to boot bios)
-
-5.Disable 'Secure Boot' Mode in Your BIOS.
-
-6.Press&Hold the key for boot into 'Boot Option'.
-(Search if you don't know: how to boot into boot option)
-
-7.Choose Your USB Drive to boot into Ventoy.
-
-8.Choose Arch Linux ISO file, boot normally. Select the first option in Arch First Page.
-
-9.Wait For the CLI to let you enter command.
-
-
-## After Followed the Steps
-
-### GUIDE:
-Run:
-`fdisk -l`
-
-`cfdisk [the partition]` (Example: `cfdisk /dev/sda` )
-
-#### # Delete If You Want to Clear The Chosen Partition:
-
-Use [Delete] Button.
-
-(Double Check If you has choose correct partition For install Arch Linux)
-
-
-#### # Create 3 Partitions:
-
-Use [New] Button to Create:
-
-- 1G  [first partition]
-
-- 6G (You can Choose 1-6 by yourself, if you know what is this for)   [second partition]
-
-- (the rest of space)   [third partition]
-
-
-#### # Make Partition Bootable Flag:
-
-Use [Bootable] Button to Flag First Partition [1G]
-
-
-#### # Change Type of Partitions:
-
-Use [Type] to Make:
-
-- [first partition] 'ef' Code    (first partition)
-
-- [second partition] '82' Code    (second partition)
-
-- [third partition] '83' Code     (third partition)
-
-
-#### # Save Changes:
-
-Use [Write] Button, Type: yes, Press 'Enter'
-
-
-### Format Partitions:
-
-Run:
-
-`mkfs.ext4 [third partition]`
-
-`mkfs.fat -F 32 [first partition]`
-
-`mkswap [second partition]`
-
-
-### Mount Partitions:
-
-`mount [third partition] /mnt`
-
-`swapon [second partition]`
-
-`mount --mkdir [first partition] /mnt/boot`
-
-
-## Enter Arch Installation:
-
-`archinstall`
-
-### Guide:
-
+#### Start ArchInstall
+```bash
+  archinstall
+```
 - Modify Options From Up to Down
+- **Mirror**
+  - Select Country (Nearest)
+- **Disk Configuration**
+  - Select [Pre-Mounted Configuration]
+  - **Type:**
+    - /mnt
+- **Root Password**
+  - [Enter Root/Admin Password]
+- **User Account**
+  - [Add User]
+  - Select 'Yes' to add into Sudoers File/List
+- **Profile**
+  - Select [Minimal]
+- **Audio**
+  - Select [Pipewire]
+- **Additional Packages**
+  - Select [curl], [git]  (Use 'Tab' to Select, Type '/' to Search)
+- **Network Configuration**
+  - Select [Use NetworkManager]
+- **Timezone**
+  - Select [TimeZone]
+- **Install**
+  - Select [Yes]
+- **After Completed**
+  - Select [Reboot System]
+  - (You can unplug your Flash Drive)
 
-##### Mirror: Choose Your Country. 
-- IF Don't Have Your Country, Choose Nearby Country.
+### Login
+- Enter [Username]
+- Enter [Password]
 
-##### Disk Configuration:
-- Choose Pre-Mounted Configuration
-- Type: /mnt
-
-##### Root Password:
-- Set Your Own.
-
-##### User Account:
-- Follow instructions to add A User
-- 'Yes' to Add To Sudoers File/List.
-
-##### Profile:
-- Choose: Minimal
-
-##### Audio:
-- Choose: Pipewire
-
-##### Additional Packages:
-- (For Enter Search)Type: /
-- Search: curl
-- Press 'Tab' (Select)
-- Search: git
-- Press 'Enter' (Select and Exit)
-
-##### Network Configuration:
-- Select: Use NetworkManager
-
-##### Timezone:
-- (For Enter Search)Type: /
-- Search: [Your TimeZone]
-- Press 'Enter' for Select
-
-## !!! Last !!!
-
-#### Go to 'Install', Press Enter.
-
-#### Select 'Yes', Press Enter Again.
-
-### 
-- Wait For Finish Installation.
-
-## After Installed
-
-### Select 'Reboot System'
-
-#### Now, You can Unplug Your Flash Drive.
-
-#### And, Your will Enter to Login Page.
-
-### After Login:
-
-#### Refer to [Install_HEY_Hypr_Arch](https://github.com/hey1me/HEY_HyprArch) to Install HEY_Hypr_Arch Linux. (Developing, Estimated will be published in March 2026)
-
-#### Thanks For Supporting My Projects. Follow to Avoid Miss Out More Projects.
-
+## 💫 HEY_HyprArch Linux
+- **Work Well With New & Advanced Users**
+  - [Link](https://github.com/hey1me/HEY_HyprArch) (Publish in April 2026)
 
 <h2 align="center">
     💌 SUPPORT 💌
