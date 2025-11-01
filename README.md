@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
 </p>
 
-![Logo](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png)
-
-
 ## Index
 
 ‼️ Operation Will Wipe Your SSD/Storage Card
