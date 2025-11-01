@@ -142,11 +142,16 @@
   - Best for General & Gaming Purposes!
   - Only Support in ARCH LINUX.
   - Optimized for AMD CPU Laptops.
-<br>
-(Publish in April 2026) <br>
-[Install](https://github.com/hey1me/HEY_HyprArch)
-<br>
-[Official Website](https://HEY_HyprArch-Official-Website)
+- **Publish in April 2026**
+  - [Install](https://github.com/hey1me/HEY_HyprArch)
+
+<div align="center">
+    <a href="https://(HEY_HyprArch Website)"><kbd> <br> Official Website <br> </kbd></a>&ensp;&ensp;
+    <a href="https://(HEY_HyprArch FAQ)"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
+    <a href="https://(HEY_HyprArch Gallery)"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
+    <a href="https://t.me/Hey_HyprArch"><kbd> <br> Telegram <br> </kbd></a>&ensp;&ensp;
+</div>
+
 
 <h2 align="center">
     💌 SUPPORT 💌
