@@ -21,7 +21,8 @@
   - [Mount Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#mount-partitions)
   - [Start ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/#start-archinstall)
 - [Login](https://github.com/hey1me/ARCH_INSTALLATION/#login)
-- [HEY_HyprArch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)
+- **[HEY_HyprArch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)**
+  - [Install](https://github.com/hey1me/HEY_HyprArch)
 - **[SUPPORT](https://github.com/hey1me/ARCH_INSTALLATION/#-----support-)**
   - [YouTube](https://www.youtube.com/@hey1me)
   - [Telegram](https://t.me/Hey_HyprArch)
