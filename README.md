@@ -143,9 +143,9 @@
   - Only Support in ARCH LINUX.
   - Optimized for AMD CPU Laptops.
 <br>
-[Publish in April 2026] <br>
+(Publish in April 2026) <br>
 [Install](https://github.com/hey1me/HEY_HyprArch)
-[Official Website](https://(HEY_HyprArch Official Website))
+[Official Website](https://HEY_HyprArch-Official-Website)
 
 <h2 align="center">
     💌 SUPPORT 💌
