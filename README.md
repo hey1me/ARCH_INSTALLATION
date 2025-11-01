@@ -21,7 +21,7 @@
   - [Mount Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#mount-partitions)
   - [Start ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/#start-archinstall)
   - [Login](https://github.com/hey1me/ARCH_INSTALLATION/#login)
-  - [HEY_HyprArch]()
+  - [HEY_HyprArch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)
   - [SUPPORT](https://github.com/hey1me/ARCH_INSTALLATION/#-----support-)
 
 ### Tools Requirement
@@ -135,8 +135,14 @@
 <h2 align="center">
     💫 HEY_HyprArch
 </h2>
-  - **Work Well With New & Advanced Users**
-  - [Link](https://github.com/hey1me/HEY_HyprArch) (Publish in April 2026)
+
+- **Work Well With New & Advanced Users**
+  - 💫HEY_HyprArch is [ARCH + HYPRLAND].
+  - Focus On User-friendly, Privacy & Security.
+  - Best for General & Gaming Purposes!
+  - Only Support in ARCH LINUX.
+  - Optimized for AMD CPU Laptops.
+[Link](https://github.com/hey1me/HEY_HyprArch) (Publish in April 2026)
 
 <h2 align="center">
     💌 SUPPORT 💌
