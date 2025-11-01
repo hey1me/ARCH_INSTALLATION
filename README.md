@@ -168,7 +168,6 @@
   - Focus On User-friendly, Privacy & Security.
   - Best for General & Gaming Purposes!
   - Only Support in ARCH LINUX.
-  - Optimized for AMD CPU Laptops.
 - **Publish in April 2026**
   - [Install](https://github.com/hey1me/HEY_HyprArch)
 
