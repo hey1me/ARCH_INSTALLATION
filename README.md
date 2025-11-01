@@ -20,8 +20,8 @@
   - [Format Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#format-partitions)
   - [Mount Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#mount-partitions)
   - [Start ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/#start-archinstall)
-- [Login](https://github.com/hey1me/ARCH_INSTALLATION/#login)
-- **[💫 HEY_HyprArch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)**
+- [After Login](https://github.com/hey1me/ARCH_INSTALLATION/#after-boot-up)
+- **[💫 HEY_HyprArch 💫](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)**
   - [Install](https://github.com/hey1me/HEY_HyprArch)
 - **[SUPPORT](https://github.com/hey1me/ARCH_INSTALLATION/#-----support-)**
   - [YouTube](https://www.youtube.com/@hey1me)
@@ -134,12 +134,17 @@
   - Select [Reboot System]
   - (You can unplug your Flash Drive)
 
-### Login
-- Enter [Username]
-- Enter [Password]
+### After Boot-Up
+- **Login**
+  - Enter [Username]
+  - Enter [Password]
+- **Optional**
+  - **Create Swap File**
+    - 
 
+   
 <h2 align="center">
-    💫 HEY_HyprArch
+    💫 HEY_HyprArch 💫
 </h2>
 
 <div align="center">
