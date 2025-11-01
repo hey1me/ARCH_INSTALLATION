@@ -1,14 +1,17 @@
 <h1 align="center">
-  ARCH Installation GUIDE <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
+  ARCH Installation
 </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
+</p>
 
 ![Logo](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png)
 
 
-### Index
+## Index
 
-‼️ This Will Wipe Your Windows OS(or what else OS you are using) ‼️
-‼️ Refer to Dual-Boot on YouTube Tutorial, But NOT RECOMMENDED   ‼️
+‼️ Operation Will Wipe Your SSD/Storage Card
+‼️ If your are looking for dual-boot OS, refer to other guide
 
 - [Arch ISO File Download](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#visit-arch-official-download-webpage)
 - [After Download & How to Boot into Arch Live ISO](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#after-download)
