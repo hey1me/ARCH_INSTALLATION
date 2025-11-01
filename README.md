@@ -1,5 +1,6 @@
-## ARCH Installation GUIDE <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
-
+<h1 align="center">
+  ARCH Installation GUIDE <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
+</h1>
 
 ![Logo](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png)
 
@@ -185,3 +186,19 @@ Run:
 #### Refer to [Install_HEY_Hypr_Arch](https://github.com/hey1me/HEY_HyprArch) to Install HEY_Hypr_Arch Linux. (Developing, Estimated will be published in March 2026)
 
 #### Thanks For Supporting My Projects. Follow to Avoid Miss Out More Projects.
+
+
+<h2 align="center">
+    💌 SUPPORT 💌
+</h2>
+
+- Donate A 🌟 on my GitHub repos
+- Subscribe My YouTube Channel 🎬 [YouTube](https://www.youtube.com/@hey1me)
+- Join My Telegram Channel [Telegram](https://t.me/Hey_HyprArch)
+- You can also support by ☕ or PayPal 💕
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
+
+or
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TengQing1016)
