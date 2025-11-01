@@ -145,6 +145,7 @@
 <br>
 (Publish in April 2026) <br>
 [Install](https://github.com/hey1me/HEY_HyprArch)
+<br>
 [Official Website](https://HEY_HyprArch-Official-Website)
 
 <h2 align="center">
