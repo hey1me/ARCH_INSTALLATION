@@ -136,6 +136,13 @@
     💫 HEY_HyprArch
 </h2>
 
+<div align="center">
+    <a href="https://(HEY_HyprArch Website)"><kbd> <br> Official Website <br> </kbd></a>&ensp;&ensp;
+    <a href="https://(HEY_HyprArch FAQ)"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
+    <a href="https://(HEY_HyprArch Gallery)"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
+    <a href="https://t.me/Hey_HyprArch"><kbd> <br> Telegram <br> </kbd></a>&ensp;&ensp;
+</div>
+
 - **Work Well With New & Advanced Users**
   - 💫HEY_HyprArch is [ARCH + HYPRLAND].
   - Focus On User-friendly, Privacy & Security.
@@ -144,13 +151,6 @@
   - Optimized for AMD CPU Laptops.
 - **Publish in April 2026**
   - [Install](https://github.com/hey1me/HEY_HyprArch)
-
-<div align="center">
-    <a href="https://(HEY_HyprArch Website)"><kbd> <br> Official Website <br> </kbd></a>&ensp;&ensp;
-    <a href="https://(HEY_HyprArch FAQ)"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
-    <a href="https://(HEY_HyprArch Gallery)"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
-    <a href="https://t.me/Hey_HyprArch"><kbd> <br> Telegram <br> </kbd></a>&ensp;&ensp;
-</div>
 
 
 <h2 align="center">
