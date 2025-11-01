@@ -20,9 +20,14 @@
   - [Format Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#format-partitions)
   - [Mount Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#mount-partitions)
   - [Start ArchInstall](https://github.com/hey1me/ARCH_INSTALLATION/#start-archinstall)
-  - [Login](https://github.com/hey1me/ARCH_INSTALLATION/#login)
-  - [HEY_HyprArch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)
-  - [SUPPORT](https://github.com/hey1me/ARCH_INSTALLATION/#-----support-)
+- [Login](https://github.com/hey1me/ARCH_INSTALLATION/#login)
+- [HEY_HyprArch](https://github.com/hey1me/ARCH_INSTALLATION/blob/main/README.md#-----hey_hyprarch)
+- **[SUPPORT](https://github.com/hey1me/ARCH_INSTALLATION/#-----support-)**
+  - [YouTube](https://www.youtube.com/@hey1me)
+  - [Telegram](https://t.me/Hey_HyprArch)
+  - [GumRoad](https://hey1me.gumroad.com/)
+  - [Ko-Fi](https://ko-fi.com/hey1me)
+  - [PayPal](https://paypal.me/TengQing1016)
 
 ### Tools Requirement
 - **Flash Drive**
