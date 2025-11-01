@@ -142,7 +142,10 @@
   - Best for General & Gaming Purposes!
   - Only Support in ARCH LINUX.
   - Optimized for AMD CPU Laptops.
-[Link](https://github.com/hey1me/HEY_HyprArch) (Publish in April 2026)
+<br>
+[Publish in April 2026] <br>
+[Install](https://github.com/hey1me/HEY_HyprArch)
+[Official Website](https://(HEY_HyprArch Official Website))
 
 <h2 align="center">
     💌 SUPPORT 💌
@@ -151,7 +154,7 @@
 - Donate A 🌟 on my GitHub repos
 - Subscribe My YouTube Channel 🎬 [YouTube](https://www.youtube.com/@hey1me)
 - Join My Telegram Channel [Telegram](https://t.me/Hey_HyprArch)
-- - Check Out GumRoad [GumRoad](https://hey1me.gumroad.com/)
+- Check Out GumRoad [GumRoad](https://hey1me.gumroad.com/)
 - You can also support by ☕ or PayPal 💕
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
