@@ -195,6 +195,7 @@ Run:
 - Donate A 🌟 on my GitHub repos
 - Subscribe My YouTube Channel 🎬 [YouTube](https://www.youtube.com/@hey1me)
 - Join My Telegram Channel [Telegram](https://t.me/Hey_HyprArch)
+- - Check Out GumRoad [GumRoad](https://hey1me.gumroad.com/)
 - You can also support by ☕ or PayPal 💕
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
