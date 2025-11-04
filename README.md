@@ -48,11 +48,11 @@
    - Select Your Flash Drive & ISO File
 3. **Restart Your Computer & Boot into Your BIOS/UEFI**
      - Don't have to unplug your Flash Drive
-     - Google 'Boot Key for [computer_manufacturer]'
+     - Google: 'Boot Key for [computer_manufacturer]'
      - Press & Hold The Key when booting computer
-        - **For Windows OS**
-          - Open Command Prompt as an administrator
-          - Type the command `shutdown /r /fw` and press Enter
+    - **For Windows OS**
+      - Open Command Prompt as an administrator
+      - Type the command `shutdown /r /fw` and press Enter
 4. **In BIOS/UEFI**
     - **Method 1**
       - Disable 'Secure Boot' Mode
