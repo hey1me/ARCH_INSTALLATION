@@ -46,9 +46,9 @@
 1. [Download](https://www.ventoy.net/en/download.html)
 2. **In Ventoy App**
    - Select Your Flash Drive & ISO File
-3. **Restart Your Computer & Boot into Your BIOS/UEFI**
+3. **Reboot Your Computer & Boot into Your BIOS/UEFI**
      - Don't have to unplug your Flash Drive
-     - Google: 'Boot Key for [computer_manufacturer]'
+     - Google: 'Bios Key for [computer_manufacturer]'
      - Press & Hold The Key when booting computer
     - **For Windows OS**
       - Open Command Prompt as an administrator
@@ -58,15 +58,16 @@
       - Disable 'Secure Boot' Mode
       - Choose Flash Drive as the first 'Boot Option'
       - Save Changes & Exit
-    - **Method 2**
+      - Boot Computer
+    - **Method 2** (HIGHLY RECOMMENDED)
       - Disable 'Secure Boot' Mode
       - Save Changes & Exit
-      - Press 
-5. Turn On Your Computer
-6. **In Ventoy Bootloader**
+      - Google: 'Boot Key for [computer_manufacturer]'
+      - Press & Hold The Key when booting computer
+5. **In Ventoy Bootloader**
     - Select Arch Linux ISO file
     - Boot 'Normal Mode'.
-7. **In Arch Bootloader**
+6. **In Arch Bootloader**
     - Select 'Boot Arch Linux (x86_64)'
 
 ### In Arch Live
