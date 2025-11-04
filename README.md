@@ -13,7 +13,7 @@
 
 - [Tools Requirement](https://github.com/hey1me/ARCH_INSTALLATION/#tools-requirement)
 - [Arch Linux ISO File](https://github.com/hey1me/ARCH_INSTALLATION/#arch-linux-iso-file)
-- [Boot Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#boot-arch-linux)
+- [Boot Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#boot-arch-live)
 - **[In Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#in-arch-live)**
   - [Internet Connection](https://github.com/hey1me/ARCH_INSTALLATION/#internet-connection)
   - [Create Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#create-partitions)
