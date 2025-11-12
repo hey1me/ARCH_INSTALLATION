@@ -100,13 +100,13 @@
 
 #### Format Partitions
 ```bash
-  mkfs.ext4 [third partition]
+  mkfs.ext4 [second partition]
   mkfs.fat -F 32 [first partition]
 ```
 
 #### Mount Partitions
 ```bash
-  mount [third partition] /mnt
+  mount [second partition] /mnt
   mount --mkdir [first partition] /mnt/boot
 ```
 
