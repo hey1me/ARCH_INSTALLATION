@@ -121,15 +121,22 @@
   - Select [Pre-Mounted Configuration]
   - **Type:**
     - `/mnt`
-- **Root Password**
-  - [Enter Root/Admin Password]
-- **User Account**
-  - [Add User]
-  - Select 'Yes' to add into Sudoers File/List
+- **Swap**
+  - **Swap on zram**
+    - Change to 'Disabled'
+- **Authentication**
+  - **Root Password**
+    - [Enter Root/Admin Password]
+  - **User Account**
+    - [Add User]
+    - Select 'Yes' to add into Sudoers File/List
 - **Profile**
   - Select [Minimal]
-- **Audio**
-  - Select [Pipewire]
+- **Applications**
+  - **Bluetooth**
+    - 'Enabled'
+  - **Audio**
+    - Select [Pipewire]
 - **Additional Packages**
   - Select [curl], [git]  (Use 'Tab' to Select, Type '/' to Search)
 - **Network Configuration**
