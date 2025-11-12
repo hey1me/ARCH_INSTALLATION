@@ -79,7 +79,7 @@
 
 #### Create Partitions
 1. ```bash
-    fdisk -l`
+    fdisk -l
     cfdisk [partition you want to install Arch]
    ```
 - **Example**
