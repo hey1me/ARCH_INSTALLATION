@@ -120,21 +120,15 @@
   archinstall
 ```
 - Modify Options From Up to Down
-  <details>
-    <summary>Mirror</summary>
+- **Mirror**
   - Select Country (Nearest)
-  </details>
-  <details>
-    <summary>Disk Configuration</summary>
+- **Disk Configuration**
   - Select [Pre-Mounted Configuration]
   - **Type:**
     - `/mnt`
-  </details>
-  <details>
-    <summary>Swap</summary>
+- **Swap**
   - **Swap on zram**
     - Change to 'Disabled'
-  </details>
 - **Authentication**
   - **Root Password**
     - [Enter Root/Admin Password]
