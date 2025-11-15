@@ -31,13 +31,18 @@
   - [PayPal](https://paypal.me/TengQing1016)
 
 ### Tools Requirement
-- **Flash Drive**
-  - Recommended at least 2GB
-- **Devices**
-  - Processor: x86_64 (64-bit) architecture
-  - RAM: At least 2 GB
-  - Storage: At least 20GB
-  - Internet Connection
+
+<details>
+  <summary>Flash Drive</summary>
+- Recommended at least 2GB
+</details>
+<details>
+  <summary>Devices</summary>
+- Processor: x86_64 (64-bit) architecture
+- RAM: At least 2 GB
+- Storage: At least 20GB
+- Internet Connection
+</details>
 
 ### Arch Linux ISO File
 [Download](https://geo.mirror.pkgbuild.com/iso/latest/)
@@ -115,15 +120,21 @@
   archinstall
 ```
 - Modify Options From Up to Down
-- **Mirror**
+  <details>
+    <summary>Mirror</summary>
   - Select Country (Nearest)
-- **Disk Configuration**
+  </details>
+  <details>
+    <summary>Disk Configuration</summary>
   - Select [Pre-Mounted Configuration]
   - **Type:**
     - `/mnt`
-- **Swap**
+  </details>
+  <details>
+    <summary>Swap</summary>
   - **Swap on zram**
     - Change to 'Disabled'
+  </details>
 - **Authentication**
   - **Root Password**
     - [Enter Root/Admin Password]
