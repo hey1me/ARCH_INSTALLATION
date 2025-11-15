@@ -34,10 +34,12 @@
 
 <details>
   <summary>Flash Drive</summary>
-- Recommended at least 2GB
+  
+- `Recommended` - at least 2GB
 </details>
 <details>
   <summary>Devices</summary>
+  
 - `Processor` - x86_64 (64-bit) architecture
 - `RAM` - At least 2 GB
 - `Storage` - At least 20GB
