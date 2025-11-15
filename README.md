@@ -38,10 +38,10 @@
 </details>
 <details>
   <summary>Devices</summary>
-- Processor: x86_64 (64-bit) architecture
-- RAM: At least 2 GB
-- Storage: At least 20GB
-- Internet Connection
+- `Processor` - x86_64 (64-bit) architecture
+- `RAM` - At least 2 GB
+- `Storage` - At least 20GB
+- `Internet Connection`
 </details>
 
 ### Arch Linux ISO File
