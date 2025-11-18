@@ -1,8 +1,24 @@
 <h1 align="center">
-  ARCH Installation
+  <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub> Arch Installation
+  <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
 </h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/>
+  <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
+    <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Guide%20To%20Install-Arch-0092CD?style=for-the-badge&logo=archlinux&color=1793D1&logoColor=D9E0EE&labelColor=000000"/></a>
+    <a href="https://github.com/hey1me/HEY_HyprArch/"><img src="https://img.shields.io/badge/HEY_HyprArch-Hyprland-0092CD?style=for-the-badge&logo=hyprland&color=58E1FF&logoColor=D9E0EE&labelColor=000000"/></a>
+  <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
+</p>
+<p align="center">
+  <a href="https://hey1me.com"><img src="https://img.shields.io/badge/HEY_HyprArch-Official%20Website-0092CD?style=for-the-badge&logo=linux&color=0092CD&logoColor=D9E0EE&labelColor=000000"/></a>
+  <a href="https://github.com/hey1me/HEY_HyprArch/stargazers">
+    <img src="https://img.shields.io/github/stars/hey1me/HEY_HyprArch?style=for-the-badge&logo=github&color=222222&logoColor=D9E0EE&labelColor=000000" alt="GitHub stars">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/@hey1me"><img src="https://img.shields.io/badge/Hey1me-YouTube-5865F2?style=for-the-badge&logo=youtube&color=FF0000&logoColor=D9E0EE&labelColor=000000"/></a>
+  <a href="https://t.me/Hey_HyprArch"><img src="https://img.shields.io/badge/HEY_HyprArch-Telegram-5865F2?style=for-the-badge&logo=telegram&color=26A5E4&logoColor=D9E0EE&labelColor=000000"/></a>
+  <a href="mailto:hey1me@protonmail.com"><img src="https://img.shields.io/badge/Hey1Me-Mail-5865F2?style=for-the-badge&logo=gmail&color=6D4AFF&logoColor=D9E0EE&labelColor=000000"/></a>
 </p>
 
 ## 📋 Index:
