@@ -195,9 +195,8 @@
 </h2>
 
 <div align="center">
-    <a href="https://(HEY_HyprArch Website)"><kbd> <br> Official Website <br> </kbd></a>&ensp;&ensp;
-    <a href="https://(HEY_HyprArch FAQ)"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
-    <a href="https://(HEY_HyprArch Gallery)"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
+    <a href="https://hey1me.com"><kbd> <br> Official Website <br> </kbd></a>&ensp;&ensp;
+    <a href="https://ko-fi.com/album/HEYHyprArch-K3K61OMD0T"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
     <a href="https://t.me/Hey_HyprArch"><kbd> <br> Telegram <br> </kbd></a>&ensp;&ensp;
 </div>
 
