@@ -6,7 +6,7 @@
 <p align="center">
   <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
     <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Guide%20To%20Install-Arch-0092CD?style=for-the-badge&logo=archlinux&color=1793D1&logoColor=D9E0EE&labelColor=000000"/></a>
-    <a href="https://github.com/hey1me/HEY_HyprArch/"><img src="https://img.shields.io/badge/HEY_HyprArch-Hyprland-0092CD?style=for-the-badge&logo=hyprland&color=58E1FF&logoColor=D9E0EE&labelColor=000000"/></a>
+    <a href="https://github.com/hey1me/HEY_HyprArch/"><img src="https://img.shields.io/badge/HEY_HyprArch-Linux-0092CD?style=for-the-badge&logo=hyprland&color=58E1FF&logoColor=D9E0EE&labelColor=000000"/></a>
   <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
 </p>
 <p align="center">
