@@ -204,7 +204,7 @@
   - 💫 HEY_HyprArch is [Arch + Hyprland]
   - Good Customizations, Privacy & Secure, Easy-to-Use
   - Best for Daily Use & Gaming
-  - Only Works for ArchLinux
+  - Only Works for Arch Linux or any Arch Linux-based distros
 - **Publish in April 2026**
   - [Install](https://github.com/hey1me/HEY_HyprArch)
 
