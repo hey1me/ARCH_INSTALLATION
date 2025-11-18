@@ -10,7 +10,7 @@
   <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
 </p>
 <p align="center">
-  <a href="https://hey1me.com"><img src="https://img.shields.io/badge/HEY_HyprArch-Official%20Website-0092CD?style=for-the-badge&logo=linux&color=0092CD&logoColor=D9E0EE&labelColor=000000"/></a>
+  <a href="https://hey1me.com"><img src="https://img.shields.io/badge/Hey1Me-Official%20Website-0092CD?style=for-the-badge&logo=linux&color=0092CD&logoColor=D9E0EE&labelColor=000000"/></a>
   <a href="https://github.com/hey1me/HEY_HyprArch/stargazers">
     <img src="https://img.shields.io/github/stars/hey1me/HEY_HyprArch?style=for-the-badge&logo=github&color=222222&logoColor=D9E0EE&labelColor=000000" alt="GitHub stars">
   </a>
