@@ -13,7 +13,7 @@
 
 - [Tools Requirement](https://github.com/hey1me/ARCH_INSTALLATION/#tools-requirement)
 - [Arch Linux ISO File](https://github.com/hey1me/ARCH_INSTALLATION/#arch-linux-iso-file)
-- [Boot Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#boot-arch-live)
+- [Boot Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#boot-arch-live-steps)
 - **[In Arch Live Step](https://github.com/hey1me/ARCH_INSTALLATION/#in-arch-live)**
   - [Internet Connection](https://github.com/hey1me/ARCH_INSTALLATION/#internet-connection)
   - [Create Partitions](https://github.com/hey1me/ARCH_INSTALLATION/#create-partitions)
@@ -49,7 +49,7 @@
 ### Arch Linux ISO File
 [Download](https://geo.mirror.pkgbuild.com/iso/latest/)
 
-### Boot Arch Live
+### Boot Arch Live Steps
 1. [Download](https://www.ventoy.net/en/download.html)
 2. **In Ventoy App**
    - Select Your Flash Drive & ISO File
@@ -99,8 +99,8 @@
     - (Recommend create Swap File instead of Swap Partition)
 4. Select [Bootable] Button to Flag First Partition[1G]
 5. **Use [Type] Button to Change**
-    - [first partition] 'ef' Code
-    - [second partition] '83' Code
+    - [first partition] (fdisk: 'ef' Code)
+    - [second partition] (fdisk: '83' Code)
 6. **Select [Write] Button**
     - **Type:**
       - yes
