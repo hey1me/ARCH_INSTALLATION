@@ -202,10 +202,10 @@
 </div>
 
 - **Work Well With New & Advanced Users**
-  - 💫HEY_HyprArch is [ARCH + HYPRLAND].
-  - Focus On User-friendly, Privacy & Security.
-  - Best for General & Gaming Purposes!
-  - Only Support in ARCH LINUX.
+  - 💫 HEY_HyprArch is [Arch + Hyprland]
+  - Good Customizations, Privacy & Secure, Easy-to-Use
+  - Best for Daily Use & Gaming
+  - Only Works for ArchLinux
 - **Publish in April 2026**
   - [Install](https://github.com/hey1me/HEY_HyprArch)
 
